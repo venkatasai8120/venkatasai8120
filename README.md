@@ -1,31 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Venkata%20Sai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=VENKATA%20SAI&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Venkata+Sai;Data+Analyst+focused+on+business+impact;I+build+dashboards+that+drive+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Open+to+full-time+Data+Analyst+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Venkata+Sai;4%2B+Years+Experience+in+Data+Analytics;Building+Dashboards+%26+Driving+Business+Impact;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Open+to+Full-Time+Data+Analyst+Roles" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=venkatasai8120&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/venkatasai8120?style=for-the-badge&color=0891b2" alt="followers" />
-<img src="https://img.shields.io/github/stars/venkatasai8120?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=venkatasai8120&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl4dG1wdzQ4dmF1Z2RjYjBhZW9leXVpd2VjYjBkMW5rMXFwcWg3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="35"> About Me
+## ⚡ About Me
 
-<img align="right" alt="Data Analyst" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- 💼 **Data Analyst with 4+ years of experience** in SQL, Python, Power BI, and Tableau  
+- 📊 Built dashboards & analytics solutions improving efficiency by **20–30%+**  
+- 📈 Experienced in **data cleaning, EDA, KPI tracking, A/B testing, regression**  
+- 🎓 Currently pursuing **Master’s in Business Analytics (Kent State University, May 2026)**  
+- 🚀 Actively seeking **full-time Data Analyst roles**
 
-- 🎓 Master’s in Business Analytics at **Kent State University**
-- 📊 Data Analyst skilled in **SQL, Python, Power BI, Excel, Tableau**
-- 🔍 Passionate about turning raw data into **actionable business insights**
-- 📈 Interested in **KPI dashboards, BI reporting, performance analysis, and decision support**
-- 🚀 Actively seeking **full-time Data Analyst opportunities**
-- 🌎 Based in **Ohio, USA**
+---
 
-<br clear="right"/>
+## 💼 Current Role
+
+### 🎓 Graduate Analyst — Kent State University *(Jan 2026 – Present)*
+- Guided **40+ students** in SQL, Excel, Power BI, Tableau for analytics & KPI tracking  
+- Designed **real-world datasets & projects**, improving hands-on learning  
+- Mentored dashboard/report development → improved efficiency by **20–25%**  
+- Evaluated **70–90 assignments/semester** ensuring industry alignment  
+
+---
+
+## 🧠 Previous Experience
+
+### 💻 Data Analyst — Advantage One *(Feb 2021 – Nov 2024)*
+- Analyzed **50K–120K+ records** using SQL & Python for business insights  
+- Built **6–10 dashboards** → reduced reporting effort by **25–35%**  
+- Optimized SQL queries → improved performance by **20–30%**  
+- Conducted **sales funnel & conversion analysis** → improved conversions by **10–15%**  
+- Developed ETL pipelines using **SQL, MySQL, AWS (S3, Redshift)**  
+- Automated reporting → reduced manual effort by **20–30%**
 
 ---
 
@@ -34,14 +49,13 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github" />
-<br><br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Visualization-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Business_Analytics-0ea5e9?style=for-the-badge" />
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-00F7FF?style=for-the-badge&logo=tableau&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-00F7FF?style=for-the-badge&logo=microsoft-excel&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge&logo=mysql&logoColor=black" />
 
 </div>
 
@@ -49,39 +63,39 @@
 
 ## 🚀 Featured Projects
 
-### 📉 Customer Churn Risk Analysis Dashboard
-- Identified high-risk churn segments using customer behavior analysis
-- Built an interactive Power BI dashboard to monitor churn KPIs
-- Supported retention strategy planning with actionable insights
+### 📉 Customer Churn Risk Dashboard
+- Analyzed **50K+ customer records** using Python & SQL  
+- Built Power BI dashboard for churn risk & segmentation  
+- Delivered insights for retention strategies  
 
-🔗 [View Project](https://github.com/venkatasai8120/customer-churn-risk-analysis-dashboard)
+🔗 https://github.com/venkatasai8120/customer-churn-risk-analysis-dashboard
 
 ---
 
 ### 📊 Sales Performance Dashboard
-- Built an Excel dashboard to analyze revenue, profit, and regional performance
-- Used cleaning, pivot tables, formulas, and KPI tracking
-- Highlighted trends to support better business decisions
+- Built KPI dashboard for revenue & regional trends  
+- Automated reporting → improved efficiency by **25–30%**  
+- Enabled data-driven business decisions  
 
-🔗 [View Project](https://github.com/venkatasai8120/sales-performance-dashboard-excel)
+🔗 https://github.com/venkatasai8120/sales-performance-dashboard-excel
 
 ---
 
 ### ☕ Coffee Shop Sales Dashboard
-- Analyzed sales transactions to uncover product and time-based trends
-- Built KPI dashboards for category performance and customer behavior
-- Identified peak hours and best-selling products
+- Analyzed **20K–50K+ transactions**  
+- Identified peak hours & product trends  
+- Built Power BI KPI dashboard  
 
-🔗 [View Project](https://github.com/venkatasai8120/coffee-shop-sales-performance-dashboard)
+🔗 https://github.com/venkatasai8120/coffee-shop-sales-performance-dashboard
 
 ---
 
 ### 💹 Financial Ratio Analysis
-- Evaluated liquidity, profitability, solvency, and efficiency ratios
-- Conducted working capital and trend analysis
-- Delivered structured insights for financial decision-making
+- Analyzed 3–5 years of financial data  
+- Evaluated liquidity, profitability, solvency  
+- Delivered insights for business performance  
 
-🔗 [View Project](https://github.com/venkatasai8120/financial-ratio-analysis-UltraTech-cement)
+🔗 https://github.com/venkatasai8120/financial-ratio-analysis-UltraTech-cement
 
 ---
 
@@ -89,10 +103,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatasai8120&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatasai8120&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasai8120&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=venkatasai8120&theme=tokyonight&hide_border=true" />
 
@@ -100,20 +114,21 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Certifications
 
-<div align="center">
+- 🎓 Google Data Analytics Professional Certificate  
+- 🎓 IBM Python for Data Analysis  
+- 🎓 Microsoft Generative AI for Data Analysis  
 
-<img src="https://github-profile-trophy.vercel.app/?username=venkatasai8120&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
+🔗 https://coursera.org/share/af180bafe87bf8a02ea5121e70bcb0c6  
+🔗 https://coursera.org/share/dbfadaf01f206adab74c4e8c63da06fc  
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/venkatasai8120/venkatasai8120/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/venkatasai8120/venkatasai8120/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -122,11 +137,12 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/venkatasaireddy-peddireddy/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/venkatasaireddy-peddireddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
+
 <a href="mailto:pvsr1820@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
@@ -135,6 +151,6 @@
 
 <div align="center">
 
-### ✨ “Transforming data into decisions, dashboards into stories.”
+### ⚡ "Turning data into insights. Insights into decisions."
 
 </div>
