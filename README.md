@@ -72,3 +72,15 @@ Data Analyst | SQL | Python | Power BI | Excel
 🔗 [View Project](https://github.com/venkatasai8120/financial-ratio-analysis-UltraTech-cement)
 
 ---
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatasai8120&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasai8120&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=venkatasai8120&theme=tokyonight&hide_border=true" />
+</p>
+
+---
