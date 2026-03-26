@@ -35,3 +35,40 @@ Data Analyst | SQL | Python | Power BI | Excel
 </p>
 
 ---
+## Featured Projects
+
+### Customer Churn Risk Analysis Dashboard
+- Analyzed customer data to identify high-risk churn segments  
+- Built an interactive Power BI dashboard to track churn KPIs  
+- Provided insights to improve customer retention strategies  
+
+🔗 [View Project](https://github.com/venkatasai8120/customer-churn-risk-analysis-dashboard)
+
+---
+
+###  Sales Performance Dashboard
+- Developed an Excel dashboard analyzing revenue, profit, and regional performance  
+- Used data cleaning, pivot tables, and KPI tracking  
+- Identified trends to support business decision-making  
+
+🔗 [View Project](https://github.com/venkatasai8120/sales-performance-dashboard-excel)
+
+---
+
+### Coffee Shop Sales Dashboard
+- Analyzed transactional sales data to uncover product and time-based trends  
+- Built KPI dashboards for sales performance and customer behavior  
+- Helped identify peak hours and best-selling products  
+
+🔗 [View Project](https://github.com/venkatasai8120/coffee-shop-sales-performance-dashboard)
+
+---
+
+###  Financial Ratio Analysis
+- Evaluated liquidity, profitability, solvency, and efficiency ratios  
+- Conducted working capital and trend analysis  
+- Delivered structured insights for financial decision-making  
+
+🔗 [View Project](https://github.com/venkatasai8120/financial-ratio-analysis-UltraTech-cement)
+
+---
