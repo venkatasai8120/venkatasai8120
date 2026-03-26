@@ -6,6 +6,20 @@
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/venkatasai8120">
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/venkatasaireddy-peddireddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:pvsr1820@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=venkatasai8120&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
 </div>
@@ -14,35 +28,46 @@
 
 ## ⚡ About Me
 
-- **Data Analyst with 4+ years of experience** in SQL, Python, Power BI, Tableau  
-- Improved reporting & efficiency by **20–30%+** through dashboards & automation  
-- Skilled in **EDA, KPI tracking, A/B testing, regression, and business analytics**  
-- Pursuing **MS in Business Analytics – Kent State University (May 2026)**  
-- Open to **full-time Data Analyst roles**
+-  **Data Analyst with 4+ years of experience** in SQL, Python, Power BI, Tableau  
+-  Improved reporting efficiency by **20–30%+** through dashboards & automation  
+-  Skilled in **EDA, KPI tracking, A/B testing, regression, and business analytics**  
+-  Pursuing **MS in Business Analytics – Kent State University (May 2026)**  
+-  Actively seeking **full-time Data Analyst roles**
 
 ---
 
-## 💼 Experience
+#  Current Experience (Animated)
 
-### 🎓 Graduate Analyst — Kent State University *(Jan 2026 – Present)*
-- Mentoring **40+ students** in SQL, Excel, Power BI, Tableau  
-- Designed real-world datasets & analytics projects  
-- Improved student project efficiency by **20–25%**  
-- Evaluated **70–90 assignments per semester**
+<p align="center">
+  <img src="./assets/graduate-analyst-animation.gif" width="850" alt="Graduate Analyst animation" />
+</p>
+
+<div align="center">
+
+###  Graduate Analyst — Kent State University *(Jan 2026 – Present)*
+
+Guiding **40+ students** in **SQL, Excel, Power BI, Tableau**  
+Designing **real-world datasets and analytics projects**  
+Mentoring dashboard development and KPI tracking  
+Improving project efficiency by **20–25%**
+
+</div>
 
 ---
 
-### 💻 Data Analyst — Advantage One *(Feb 2021 – Nov 2024)*
+##  Previous Experience
+
+###  Data Analyst — Advantage One *(Feb 2021 – Nov 2024)*
 - Analyzed **50K–120K+ records** using SQL & Python  
 - Built **6–10 dashboards** → reduced reporting effort by **25–35%**  
-- Optimized queries → improved performance by **20–30%**  
+- Optimized SQL queries → improved performance by **20–30%**  
 - Improved conversion rates by **10–15%** through funnel analysis  
 - Built ETL pipelines using **SQL, AWS (S3, Redshift)**  
-- Automated reporting → saved **20–30% manual effort**
+- Automated workflows → reduced manual effort by **20–30%**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -62,15 +87,15 @@
 ##  Projects
 
 ### 📉 Customer Churn Dashboard
-- Analyzed **50K+ customer records**
-- Built Power BI dashboard for churn prediction & segmentation
+- Analyzed **50K+ customer records**  
+- Built Power BI dashboard for churn prediction & segmentation  
 - Delivered insights for retention strategies  
 
 🔗 https://github.com/venkatasai8120/customer-churn-risk-analysis-dashboard
 
 ---
 
-### 📊 Sales Dashboard
+###  Sales Dashboard
 - Built KPI dashboard for revenue & regional performance  
 - Automated reporting → improved efficiency by **25–30%**
 
@@ -79,14 +104,14 @@
 ---
 
 ### ☕ Coffee Shop Dashboard
-- Analyzed **20K–50K+ transactions**
-- Identified peak sales periods & product trends  
+- Analyzed **20K–50K+ transactions**  
+- Identified peak hours & product trends  
 
 🔗 https://github.com/venkatasai8120/coffee-shop-sales-performance-dashboard
 
 ---
 
-### 💹 Financial Analysis
+###  Financial Analysis
 - Evaluated financial ratios across multiple years  
 - Delivered structured business insights  
 
@@ -94,7 +119,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -109,7 +134,7 @@
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - Google Data Analytics Professional Certificate  
 - IBM Python for Data Analysis  
@@ -146,6 +171,6 @@
 
 <div align="center">
 
-### ⚡ Turning Data → Insights → Decisions
+###  Turning Data → Insights → Decisions
 
 </div>
