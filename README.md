@@ -84,3 +84,15 @@ Data Analyst | SQL | Python | Power BI | Excel
 </p>
 
 ---
+##  Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/venkatasaireddy-peddireddy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pvsr1820@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
