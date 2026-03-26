@@ -36,13 +36,7 @@
 
 ---
 
-#  Current Experience (Animated)
-
-<p align="center">
-  <img src="./assets/graduate-analyst-animation.gif" width="850" alt="Graduate Analyst animation" />
-</p>
-
-<div align="center">
+#  Current Experience
 
 ###  Graduate Analyst — Kent State University *(Jan 2026 – Present)*
 
@@ -50,8 +44,6 @@ Guiding **40+ students** in **SQL, Excel, Power BI, Tableau**
 Designing **real-world datasets and analytics projects**  
 Mentoring dashboard development and KPI tracking  
 Improving project efficiency by **20–25%**
-
-</div>
 
 ---
 
