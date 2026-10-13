@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:0f2027,100:1a1a2e&text=VENKATA%20SAI&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:0f2027,100:1a1a2e&text=VENKATA%20SAI&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Venkata+Sai;4%2B+Years+Experience+in+Data+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Dashboards+%26+Driving+Decisions;Open+to+Full-Time+Data+Analyst+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Venkata+Sai;4%2B+Years+in+Full+Stack+Development;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Building+AI-Powered+Applications;Open+to+Full+Stack+Developer+Roles" />
 
 <br>
 
@@ -28,33 +28,32 @@
 
 ## ⚡ About Me
 
--  **Data Analyst with 4+ years of experience** in SQL, Python, Power BI, Tableau  
--  Improved reporting efficiency by **20–30%+** through dashboards & automation  
--  Skilled in **EDA, KPI tracking, A/B testing, regression, and business analytics**  
--  Pursuing **MS in Business Analytics – Kent State University (May 2026)**  
--  Actively seeking **full-time Data Analyst roles**
+-  **Full Stack Developer with 4+ years of experience** in Java, Spring Boot, React, and SQL  
+-  Build **RESTful APIs** with clean layered architecture (Controller, Service, Repository)  
+-  Bring **Machine Learning & Generative AI** (LLMs, LangChain, RAG) into real applications  
+-  **MS in Business Analytics – Kent State University (May 2026)** | Beta Gamma Sigma ⭐  
+-  Actively seeking **full-time Full Stack Developer roles**
 
 ---
 
-#  Current Experience
+#  Recent Experience
 
-###  Graduate Analyst — Kent State University *(Jan 2026 – Present)*
+###  Graduate Assistant — Kent State University *(Jan 2026 – May 2026)*
 
-Guiding **40+ students** in **SQL, Excel, Power BI, Tableau**  
-Designing **real-world datasets and analytics projects**  
-Mentoring dashboard development and KPI tracking  
-Improving project efficiency by **20–25%**
+Mentored **40+ graduate students** on building **machine learning models in Python**  
+Reviewed **70–90 technical, data, and ML assignments** in one semester  
+Reduced project delays by **20–25%** by catching data issues early at the source
 
 ---
 
 ##  Previous Experience
 
-###  Data Analyst — Advantage One *(Feb 2021 – Nov 2024)*
-- Analyzed **50K–120K+ records** using SQL & Python  
-- Built **6–10 dashboards** → reduced reporting effort by **25–35%**  
-- Optimized SQL queries → improved performance by **20–30%**  
-- Improved conversion rates by **10–15%** through funnel analysis  
-- Built ETL pipelines using **SQL, AWS (S3, Redshift)**  
+###  Software Full Stack Developer — Advantage One *(Feb 2021 – Nov 2024)*
+- Developed **RESTful APIs** in **Java & Spring Boot** with DTOs, validation, and error handling  
+- Optimized **SQL & Spring Data JPA** on MySQL/PostgreSQL for **50K–120K+ records**  
+- Built responsive **React** interfaces that consumed backend REST APIs  
+- Built data pipelines using **SQL, AWS (S3, Redshift)**  
+- Used **Scikit-learn** models to flag anomalous and duplicate records  
 - Automated workflows → reduced manual effort by **20–30%**
 
 ---
@@ -63,20 +62,29 @@ Improving project efficiency by **20–25%**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,mysql,postgres,aws,maven,git,github,postman,idea,vscode" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/LangChain-00F7FF?style=for-the-badge&logo=langchain&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-00F7FF?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-00F7FF?style=for-the-badge&logo=scikitlearn&logoColor=black" />
 <img src="https://img.shields.io/badge/PowerBI-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-00F7FF?style=for-the-badge&logo=tableau&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-00F7FF?style=for-the-badge&logo=microsoft-excel&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge&logo=mysql&logoColor=black" />
 
 </div>
 
 ---
 
 ##  Projects
+
+### ⚙️ Employee Management System API
+- Spring Boot backend with **RESTful CRUD APIs** for employee records  
+- Layered architecture: controller, service, repository, DTO, entity, config  
+- Request validation, consistent error handling, and **JPA** with MySQL/PostgreSQL  
+
+🔗 https://github.com/venkatasai8120/employee-management-system-api
+
+---
 
 ### 📉 Customer Churn Dashboard
 - Analyzed **50K+ customer records**  
@@ -128,10 +136,11 @@ Improving project efficiency by **20–25%**
 
 ##  Certifications
 
+- Microsoft Generative AI for Data Analysts  
 - Google Data Analytics Professional Certificate  
 - IBM Python for Data Analysis  
-- Microsoft Generative AI for Data Analysis  
 
+🔗 https://coursera.org/share/14eb5bec034a9d20a9009b7c41b9adec  
 🔗 https://coursera.org/share/af180bafe87bf8a02ea5121e70bcb0c6  
 🔗 https://coursera.org/share/dbfadaf01f206adab74c4e8c63da06fc  
 
@@ -163,6 +172,6 @@ Improving project efficiency by **20–25%**
 
 <div align="center">
 
-###  Turning Data → Insights → Decisions
+###  Code → Products → Impact
 
 </div>
